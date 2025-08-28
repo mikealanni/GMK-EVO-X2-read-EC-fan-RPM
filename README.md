@@ -6,4 +6,4 @@ sudo modprobe ec_sys write_support=1
 
 then run the script 
 
-sudo python3 fanreadfinal.py
+sudo python3 gmk_fan.py
